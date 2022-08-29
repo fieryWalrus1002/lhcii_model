@@ -1,0 +1,5 @@
+pandas
+pyglet
+setuptools
+numpy
+pymunk

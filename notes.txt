@@ -1,0 +1,12 @@
+Hi,
+I hope to find you well.
+Helmut is right, we need all the densities previously explored in order to compare the results arising from membranes obtained implementing the actual shape of LHCIIs versus the ones builded using circular approximations; these are (for a 100 nm x 100 nm patch):
+- 69 LHCIIs (the one you already sent)
+- 100 LHCIIs
+- 150 LHCIIs
+- 250 LHCIIs
+
+Apart from that, I have a question: I see that there is a discrepancy between the area reported in the excel file (roughly 38 nm^2) and the one you mentioned in the previous email ( 44.27nm^2 ); I guess this is somewhat related to the fact that the shape-model of LHCII has several holes in it? 
+
+
+Kind regards
